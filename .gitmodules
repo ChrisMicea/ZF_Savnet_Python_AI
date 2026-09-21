@@ -1,0 +1,9 @@
+[submodule "savnet-python-ai"]
+	path = savnet-python-ai
+	url = https://github.com/cordu-dev/savnet-python-ai
+[submodule "MyWork"]
+	path = MyWork
+	url = https://github.com/ChrisMicea/My_Savnet_Python_AI
+[submodule "ZF_Savnet_City_Bike_Project"]
+	path = ZF_Savnet_City_Bike_Project
+	url = https://github.com/ChrisMicea/ZF_Savnet_City_Bike_Project
